@@ -1,6 +1,6 @@
 🚀 Projects Included
 
-Each project is a small, self-contained application that will help you get familiar with core JavaScript concepts, including DOM manipulation, events, functions, loops, and more.
+Each project is a small application that helped me get familiar with core JavaScript concepts, including DOM manipulation, events, functions, loops, and more.
 
 Project 1: To-Do List 📝
 Build a basic to-do list where you can add, edit, cross out and delete tasks.
