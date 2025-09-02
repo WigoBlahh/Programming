@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+   margin: 0px;
+   padding: 0px;
+}
+
+body{
+    background-color: #f0f8ff;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.navbar{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    -webkit-box-shadow: 0px 1px 14px 0px #000000; 
+    box-shadow: 0px 1px 14px 0px #000000;
+    display: flex;
+    line-height: 40px;
+}
+
+.title{
+    width: 50%;
+    text-align: center;
+    color: #39a3f4;
+}
+
+.cta{
+    width: 50%;
+    display: flex;
+}
+
+.cta1{
+    width: 20%;
+   text-align: right;
+   margin-right: 2%;
+   color: darkslategray;
+}
+
+.cta2{
+    text-align: left;
+    margin-left: 2%;
+}
+
+.cta > div > a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+.cta > div > a:hover{
+    text-decoration: none;
+    color: #276fa5;
+}
+
+.active{
+    color: #39a3f4;
+}
+
+.background{
+    margin-top: -40px;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.info{
+    color: white;
+}
+
+.txt{
+    background-color: #000000;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.txt > h1{
+    margin: 15px;
+}
+
+.txt > h1 > span{
+    color: #39a3f4;
+}
+
+.btnFlip{
+	background-color:transparent;
+	border-radius:6px;
+	border:3px solid #000000;
+	cursor:pointer;
+	color:#000000;
+	padding:11px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+    margin: 0 auto;
+    display: block;
+}
+
