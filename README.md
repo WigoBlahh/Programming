@@ -6,8 +6,6 @@ Project 1: To-Do List 📝
 
 Build a basic to-do list where you can add, edit, cross out and delete tasks.
 
-*note: still need to add the edit function.*
-
 Project 2: Color Flipper 🎨
 
 A simple color flipper that flips the color from red to green. 
