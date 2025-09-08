@@ -14,3 +14,11 @@ A Hex color flipper that changes the color based on a random generated hex value
 Project 3: Counter ➗
 
 A simple counter where you can increase, decrease and reset the counter.
+
+Project 4: Quote Generator
+
+Fetch quotes from json file, random quote gets displayed on start. New quote appears on click.
+
+Project 5: Calculator
+
+Calculator with simple operators
